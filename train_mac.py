@@ -18,7 +18,7 @@ from titans_pytorch import (
 
 # constants
 
-NUM_BATCHES = int(1e5)
+NUM_BATCHES = 2000
 BATCH_SIZE = 4
 GRADIENT_ACCUMULATE_EVERY = 4
 LEARNING_RATE = 2e-4
